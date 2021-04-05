@@ -13,7 +13,7 @@ a {
 
 * {
   box-sizing: border-box;
-  font-family: Poppins;
+  font-family: Inter;
 }
 .container {
   min-height: 100vh;
@@ -27,6 +27,7 @@ a {
 .main {
   padding: 5rem 0;
   flex: 1;
+  font-family: Inter;
   display: flex;
   flex-direction: column;
   justify-content: center;
